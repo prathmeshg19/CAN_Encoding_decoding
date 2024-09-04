@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/get_data.dir/src/get_data.cpp.o -o bin/get_data  -Wl,-rpath,"/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/lib" lib/libdata.so 

@@ -1,0 +1,3 @@
+git remote add origin https://github.coventry.ac.uk/gardip/7166CEM-Coursework_Prathmesh_Gardi.git
+git push -u origin main
+git push -u origin main

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/demo_send.dir/src/demo_send.cpp.o -o bin/demo_send  -Wl,-rpath,"/home/pg19/Coventry University/7166CEM-Coursework/lib" lib/libdata.so 

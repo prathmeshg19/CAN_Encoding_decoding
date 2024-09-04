@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule"
+		},
+		{
+			"file" : "/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ftxui-populate"
+		],
+		"name" : "ftxui-populate"
+	}
+}

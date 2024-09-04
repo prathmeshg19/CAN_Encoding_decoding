@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Input_terminal.dir/src/Input_terminal.cpp.o -o bin/Input_terminal  -Wl,-rpath,"/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/lib" lib/libdata.so _deps/ftxui-build/libftxui-screen.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-component.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-screen.a 

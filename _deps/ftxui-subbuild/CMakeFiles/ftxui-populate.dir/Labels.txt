@@ -1,0 +1,13 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule

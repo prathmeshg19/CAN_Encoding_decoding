@@ -1,0 +1,3 @@
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir

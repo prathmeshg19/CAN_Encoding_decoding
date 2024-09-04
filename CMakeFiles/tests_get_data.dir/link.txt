@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tests_get_data.dir/src/tests_get_data.cpp.o -o bin/tests_get_data  -Wl,-rpath,"/home/pg19/Coventry University/7166CEM-Coursework_Prathmesh_Gardi/lib" /usr/local/lib/libCatch2Main.a lib/libdata.so /usr/local/lib/libCatch2.a 
